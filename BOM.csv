@@ -1,17 +1,18 @@
-Reference,Qty,Value,Footprint,P/N,,Found
-"5VPWR1,12VPWR1,REV1",10,LED,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,150080VS75000,,x
-Battery1,5,Conn_01x02,Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical,436500215,,x
-"Cboot1,Cinx1",10,100nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C0805C104K5RAC7411,,x
-Cff1,10,47pF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,08053A470JAT2A,,x
-Cin1,10,10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,EMK212ABJ106KG-T,,x
-Cout1,10,22uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CM21X6S226M16AT,,x
-GPIO1,5,40-Pin GPIO,Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical,5583,,x
-L1,5,3.3uH,Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder,CIGB252012AG3R3MPE,,x
-Motor1,5,Conn_01x05,Connector_Molex:Molex_Nano-Fit_105309-xx05_1x05_P2.50mm_Vertical,1053091105,,x
-R2,10,5.1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RK73B2ATTE512J,,x
-R3,10,1.5k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,ERA-6AEB152V,,x
-R4,10,620,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,ERA-6AEB621V,,x
-Ren1,10,100k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,ERJ-6ENF1003V,,x
-Rfbb1,10,30k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,ERA-6AEB303V,,x
-Rfbt1,10,220k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,ERJ-6ENF2203V,,x
-U1,5,~,Library:SOT50P160X60-6N,TPS562243DRLR,,x
+"Reference","Qty","Value","Footprint","P/N"
+"5VPWR1,12VPWR1,REV1","3","LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","150080VS75000"
+"Battery1","1","Conn_01x02","Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical","436500215"
+"C1,C3","2",".1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C0805C104K5RAC7411"
+"C2,C4,C5,C6,Cin1","5","10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","CGA4J1X7S1C106M125AE"
+"Cboot1,Cinx1","2","100nF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C0805C104K5RAC7411"
+"Cff1","1","47pF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","08053A470JAT2A"
+"Cout1","1","22uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","GMC04Y5V224Z16NT"
+"GPIO1","1","40-Pin GPIO","Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical","2222"
+"L1","1","3.3uH","Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder","CIGB252012AG3R3MPE"
+"Motor1","1","Conn_01x05","Connector_Molex:Molex_Nano-Fit_105309-xx05_1x05_P2.50mm_Vertical","1053091105"
+"R2","1","5.1k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","RK73B2ATTE512J"
+"R3","1","1.5k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ERA-6AEB152V"
+"R4","1","620","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ERA-6AEB621V"
+"Ren1","1","100k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ERJ-6ENF1003V"
+"Rfbb1","1","30k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ERA-6AEB303V"
+"Rfbt1","1","220k","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ERJ-6ENF2203V"
+"U1","1","~","Library:SOT50P160X60-6N","TPS562243DRLR"
